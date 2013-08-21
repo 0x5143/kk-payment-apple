@@ -78,7 +78,7 @@ This means when verifying receipts during a review you must failover to check re
 
 ## LICENSE - "MIT License"
 
-Copyright (c) 2013 ÔÆ¾°, http://yunjing.me/
+Copyright (c) 2013 äº‘æ™¯, http://yunjing.me/
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation

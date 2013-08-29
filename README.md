@@ -1,12 +1,12 @@
-kk-payment-apple
+kk-payment-coco
 ================
 
-Node.js verification library for iOS in app purchase receipts
+Node.js verification library for coco in app purchase receipts
 
 ## Installation
-kk-payment-apple is available via npm
+kk-payment-coco is available via npm
 
-`npm install kk-payment-apple`
+`npm install kk-payment-coco`
 
 It has no external dependencies other than node itself.
 

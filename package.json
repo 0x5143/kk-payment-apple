@@ -1,21 +1,15 @@
 {
   "name": "kk-payment-apple",
   "version": "0.1.0",
-  "description": "One payment verification library for iOS in app purchase receipts.",
-  "private" : false,
+  "description": "One payment verification library for chukong in app purchase receipts.",
+  "private" : true,
   "main": "index.js",
   "scripts": {
     "test": "node ./test/test.js"
   },
-  "repository": {
-      "type" : "git",
-      "url" : "https://github.com/huangqingcheng/kk-payment-apple.git"
-  },
   "keywords": [
     "Node",
     "payment",
-    "apple"
-  ],
-  "author": "yunjing <hqc2010@gmail.com> (http://yunjing.me)",
-  "license": "MIT"
+    "chukong"
+  ]
 }

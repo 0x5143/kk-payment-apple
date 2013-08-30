@@ -1,8 +1,8 @@
 {
-  "name": "kk-payment-apple",
-  "version": "0.1.0",
+  "name": "kk-payment-coco",
+  "version": "0.1.3",
   "description": "One payment verification library for chukong in app purchase receipts.",
-  "private" : true,
+  "private" : false,
   "main": "index.js",
   "scripts": {
     "test": "node ./test/test.js"

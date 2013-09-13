@@ -1,5 +1,5 @@
 /**
- * 触控用户系统支付模块主文件
+ * 苹果支付模块入口文件
  */
 
-module.exports = require('./lib/coco');
+module.exports = require('./lib/apple');

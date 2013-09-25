@@ -1,6 +1,6 @@
 {
   "name": "kk-payment-apple",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "One payment verification library for iOS in app purchase receipts.",
   "private" : false,
   "main": "index.js",
